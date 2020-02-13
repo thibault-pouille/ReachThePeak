@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700|Muli:400,400i,700,700i&display=swap');
+@import url('components/container.css');
+@import url('components/avatar.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+
+
+
+body { 
+	font-family: 'Muli', sans-serif;
+	font-size: 18px; 
+ }
+
+
+h1, h2, h3 { 
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: bold;
+ }
+
+ a { 
+ 	text-decoration: none;
+  }
